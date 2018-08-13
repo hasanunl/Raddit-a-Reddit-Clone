@@ -41,7 +41,7 @@ gem 'bootstrap-sass', '~> 3.3.7'
 gem 'jquery-rails'
 gem 'acts_as_votable', '~> 0.11.1'
 gem 'simple_form'
-gem 'record_tag_helper'r
+gem 'record_tag_helper'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
